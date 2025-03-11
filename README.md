@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Zupinski
-- 👀 I’m interested in IT Networking and Cybersecurity
+- 👀 I’m interested in IT Networking, server administration, scripting, and Cybersecurity
 - 🌱 I’m currently learning the guitar
 - 💞️ I’m looking to collaborate on any Python project
 - 📫 How to reach me: Email me at dzupinski@tutanota.com
